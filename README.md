@@ -50,7 +50,7 @@ This Power BI dashboard was created to give a comprehensive overview of a compan
 ### 📂 Project Files
 - Sales_Performance_Dashboard.pbix: The Power BI file containing the dashboard.
 - Sales_Data.csv: The dataset used in this project (You can replace it with your own data for testing).
-- Sales_Dashboard.jpg: A Screenshot showing an overview of the dashboard’s key visualizations.
+- Sales_Dashboard.png: A Screenshot showing an overview of the dashboard’s key visualizations.
 
 ## 📈 Insights
 The dashboard offers valuable insights for stakeholders, including:
