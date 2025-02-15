@@ -4,23 +4,23 @@ This is a comprehensive Power BI dashboard designed to visualize and analyze sal
 ## 📊 Key Features
 The dashboard provides the following key metrics and visuals:
 
-## 1. Key Performance Indicators (KPIs)
+### 1. Key Performance Indicators (KPIs)
 Total Revenue 💰
 Total Profit 📈
 Total Units Sold 📊
 Average Order Value: Total Revenue / Number of Orders
 Profit Margin: Total Profit / Total Revenue
-## 2. Time-Series Analysis
+### 2. Time-Series Analysis
 A Line Chart showing trends over time (monthly/quarterly) for key metrics like Sales, Profit, and Units Sold.
-## 3. Regional Performance
+### 3. Regional Performance
 A Map Chart showing Total Revenue by region/country, color-coded by Profit Margin.
-## 4. Product Performance
+### 4. Product Performance
 A Stacked Bar Chart highlighting the Best & Worst-Selling Products based on Total Revenue and Total Profit.
-## 5. Sales Channel Analysis
+### 5. Sales Channel Analysis
 A Pie Chart showing the distribution of sales between Online and Offline channels, with breakdowns for Revenue and Profit.
-## 6. Order Priority Breakdown
+### 6. Order Priority Breakdown
 A Clustered Column Chart showing the distribution of orders by Order Priority (Low, Medium, High, Critical).
-## 7. Profitability Insights
+### 7. Profitability Insights
 A Scatter Plot to show the relationship between Units Sold and Total Profit, with Revenue represented as bubble size and Item Type represented by color.
 
 ## 🔧 Technologies Used
@@ -36,7 +36,7 @@ Open Power BI Desktop.
 Import the file into Power BI Desktop to view and interact with the dashboard.
 Use slicers and filters to explore different metrics and time periods.
 You can also publish the dashboard to Power BI Service for sharing and collaboration.
-## 📂 Project Files
+### 📂 Project Files
 Sales_Performance_Dashboard.pbix: The Power BI file containing the dashboard.
 Sales_Data.csv: The dataset used in this project (You can replace it with your own data for testing).
 PowerBI_Visualizations.pdf: A PDF showing an overview of the dashboard’s key visualizations.
