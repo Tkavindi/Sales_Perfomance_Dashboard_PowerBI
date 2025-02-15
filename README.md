@@ -1,6 +1,9 @@
 # Power BI Dashboard: Sales Performance Analysis
 This is a comprehensive Power BI dashboard designed to visualize and analyze sales performance metrics for a business. The dashboard provides key insights on Total Revenue, Total Profit, Units Sold, Product Performance, and more, helping businesses make data-driven decisions.
 
+<img width="580" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/f93116b7-f47e-4aeb-a021-cc30dbd16313" />
+
+
 ## 📊 Key Features
 The dashboard provides the following key metrics and visuals:
 
@@ -31,7 +34,7 @@ Power BI Service: Published the dashboard for sharing and collaboration.
 This Power BI dashboard was created to give a comprehensive overview of a company's sales performance, highlighting trends over time, regional differences, product performance, and shipping efficiency. By using this dashboard, business users can make informed decisions based on key business metrics.
 
 ## 🚀 How to Use This Dashboard
-Download the Power BI file (.pbix format).
+Download the Power BI file (.pbix format).\n
 Open Power BI Desktop.
 Import the file into Power BI Desktop to view and interact with the dashboard.
 Use slicers and filters to explore different metrics and time periods.
@@ -54,4 +57,4 @@ If you have any suggestions, feel free to open an issue or submit a pull request
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 ## Contact
-For any questions or suggestions, please feel free to contact me via LinkedIn: linkedin.com/in/tharusha-kavindi-2b23a6273.
+For any questions or suggestions, please feel free to contact me via LinkedIn: [Linkedln]
